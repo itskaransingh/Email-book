@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "server": "json-server -p 3006 -w db.json"
+    "server": "json-server -p 8000 -w db.json"
   },
   "dependencies": {
     "axios": "^0.27.2",

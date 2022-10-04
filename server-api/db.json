@@ -1,34 +1,14 @@
 {
   "contacts": [
     {
-      "id": "06ea5ed1-f3fd-45e9-af9d-5c7950eb6fe7",
-      "name": "karan434242",
-      "email": "83787136387781"
-    },
-    {
-      "id": "606a18a2-edcd-4bc3-a410-88444f31467c",
-      "name": "karan434242",
-      "email": "karanrsingh2662006@gmail.com"
-    },
-    {
-      "id": "5475dd57-8229-4e98-bd05-c770b9c50365",
+      "id": "299e58a0-096f-4748-ba97-27a1666c3542",
       "name": "karan",
-      "email": "83787136387781"
-    },
-    {
-      "id": "4020a769-88c1-402c-9d70-e1dae2cf85bf",
-      "name": "karan434242",
       "email": "karansingh2612345@gmail.com"
     },
     {
-      "id": "e0f7263b-97cd-4e9a-aca8-afaaaaf89f4c",
-      "name": "manu",
-      "email": "manu@gmail.com"
-    },
-    {
-      "id": "39c0c3a4-7440-4e8d-8b6c-7b1ee6879cb1",
-      "name": "govind",
-      "email": "govind@gmail.com"
+      "id": "dd25b515-04eb-458b-b7a3-10bae7504f7b",
+      "name": "karan",
+      "email": "karanrsingh2662006@gmail.com"
     }
   ]
 }
